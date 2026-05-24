@@ -23,18 +23,18 @@ There are two sources you can download the Vortex executable from:
 1. The official [Nexus Mods website](https://www.nexusmods.com/vortex) ([direct download](https://nexusmodsapp.nexusmods.com/NexusModsVortexSetup.exe))
 2. From releases in the [GitHub repository](https://github.com/Nexus-Mods/Vortex/releases) ([direct download](https://github.com/Nexus-Mods/Vortex/releases/download/v2.0.2/vortex-setup-2.0.2.exe) for `v2.0.2`)
 
-![Vortex Setup Executable](./images/vortex_setup.png)
+![Vortex Setup Executable](https://github.com/modcommunity/how-to-download-and-install-vortex/raw/main/images/vortex_setup.png)
 
 ## Installing
 To install the application, simply run the executable file by double-clicking on it (or right-clicking -> **Open**).
 
 The first option will ask you to select the installation location. You can choose the default location or select a different one.
 
-![Vortex Installation Location](./images/vortex_setup-loc.png)
+![Vortex Installation Location](https://github.com/modcommunity/how-to-download-and-install-vortex/raw/main/images/vortex_setup-loc.png)
 
 Afterwards, continue through the installation. It should take anywhere from 30 seconds to a few minutes depending on your computer. Once the installation is complete, you can launch Vortex and start using it to manage your mods!
 
-![Vortex Installation Complete](./images/vortex_setup-com.png)
+![Vortex Installation Complete](https://github.com/modcommunity/how-to-download-and-install-vortex/raw/main/images/vortex_setup-com.png)
 
 ## Notes
 ### Linux
