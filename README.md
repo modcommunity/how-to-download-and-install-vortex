@@ -2,7 +2,7 @@ In this guide we will show you how to download and install [Vortex](https://www.
 
 [**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-download-install-vortex/)
 
-Vortex is [Nexus Mods](https://www.nexusmods.com/) official **mod manager**, and is the recommended method for managing and installing mods through Nexus Mods when available. It makes it easy to download and install mods, and also provides features such as mod profiles, load order management, and more.
+[Vortex](https://www.nexusmods.com/vortex) is [Nexus Mods](https://www.nexusmods.com/) official **mod manager**, and is the recommended method for managing and installing mods through Nexus Mods when available. It makes it easy to download and install mods, and also provides features such as mod profiles, load order management, and more.
 
 ## Table of Contents
 - [Requirements](#requirements)
@@ -73,3 +73,8 @@ Now that you have Vortex running, you will need to add your games to it. In the 
 ## See Also!
 - [Linux Guide on Reddit](https://www.reddit.com/r/linux_gaming/comments/1n1qt7t/guide_to_installing_vortex_mod_manager_on_linux/)
 - [Heroic Games Launcher](https://heroicgameslauncher.com/)
+
+## Conclusion
+[Vortex](https://www.nexusmods.com/vortex) is a powerful and user-friendly mod manager that can help you easily manage and install mods for games [Nexus Mods](https://www.nexusmods.com/) supports. By following the steps outlined in this guide, you should now have Vortex installed and ready to use on your computer. 
+
+Guides we create are always open to edits and improvements, so if you have any suggestions or notice any issues, feel free to contribute by creating a [pull request](https://github.com/modcommunity/how-to-download-and-install-vortex/pulls) on our GitHub repository!
