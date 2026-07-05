@@ -1,6 +1,6 @@
 In this guide we will show you how to download and install [Vortex](https://www.nexusmods.com/vortex) on your computer.
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-download-install-vortex/)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://moddingcommunity.com/blog/how-to-download-install-vortex/)
 
 [Vortex](https://www.nexusmods.com/vortex) is [Nexus Mods](https://www.nexusmods.com/) official **mod manager**, and is the recommended method for managing and installing mods through Nexus Mods when available. It makes it easy to download and install mods, and also provides features such as mod profiles, load order management, and more.
 
